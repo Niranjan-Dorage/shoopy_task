@@ -1,0 +1,783 @@
+[
+    {
+      "chatId": "1",
+      "userId": "user1",
+      "name": "John Doe",
+      "profileImageUrl": "https://images.pexels.com/photos/771742/pexels-photo-771742.jpeg?auto=compress&cs=tinysrgb&w=400",
+      "lastMessage": "Sure thing! I'll see you there.",
+      "lastMessageTimestamp": "2024-03-01T11:30:00Z",
+      "messages": [
+        {
+          "messageId": "msg1",
+          "senderId": "user1",
+          "message": "Hey, how's it going?Hey, how's it going?Hey, how's it going?Hey, how's it going?Hey, how's it going?Hey, how's it going?",
+          "timestamp": "2024-03-01T11:20:00Z",
+          "seen": true
+        },
+        {
+          "messageId": "msg1",
+          "senderId": "you",
+          "message": "Goodnight, sweet dreams!",
+          "timestamp": "2024-03-01T11:20:00Z",
+          "seen": true
+        },
+        {
+          "messageId": "msg1",
+          "senderId": "user1",
+          "message": "ok!",
+          "timestamp": "2024-03-01T11:20:00Z",
+          "seen": true
+        },
+        {
+          "messageId": "msg1",
+          "senderId": "you",
+          "message": "Goodnight, sweet dreams!",
+          "timestamp": "2024-03-01T11:20:00Z",
+          "seen": true
+        },
+        {
+          "messageId": "msg1",
+          "senderId": "user1",
+          "message": "Hey, how's it going?",
+          "timestamp": "2024-03-01T11:20:00Z",
+          "seen": true
+        },
+        {
+          "messageId": "msg1",
+          "senderId": "you",
+          "message": "Hey, how's it going?",
+          "timestamp": "2024-03-01T11:20:00Z",
+          "seen": true
+        }
+      ]
+    },
+    {
+      "chatId": "2",
+      "userId": "user2",
+      "name": "Jane Smith",
+      "profileImageUrl": "https://images.pexels.com/photos/428364/pexels-photo-428364.jpeg?auto=compress&cs=tinysrgb&w=400",
+      "lastMessage": "Looking forward to it!",
+      "lastMessageTimestamp": "2024-03-01T12:00:00Z",
+      "messages": [
+        {
+          "messageId": "msg1",
+          "senderId": "user1",
+          "message": "Hey, how's it going?Hey, how's it going?Hey, how's it going?Hey, how's it going?Hey, how's it going?Hey, how's it going?",
+          "timestamp": "2024-03-01T11:20:00Z",
+          "seen": true
+        },
+        {
+          "messageId": "msg1",
+          "senderId": "you",
+          "message": "Goodnight, sweet dreams!",
+          "timestamp": "2024-03-01T11:20:00Z",
+          "seen": true
+        },
+        {
+          "messageId": "msg1",
+          "senderId": "user1",
+          "message": "ok!",
+          "timestamp": "2024-03-01T11:20:00Z",
+          "seen": true
+        },
+        {
+          "messageId": "msg1",
+          "senderId": "you",
+          "message": "Goodnight, sweet dreams!",
+          "timestamp": "2024-03-01T11:20:00Z",
+          "seen": true
+        },
+        {
+          "messageId": "msg1",
+          "senderId": "user1",
+          "message": "Hey, how's it going?",
+          "timestamp": "2024-03-01T11:20:00Z",
+          "seen": true
+        },
+        {
+          "messageId": "msg1",
+          "senderId": "you",
+          "message": "Hey, how's it going?",
+          "timestamp": "2024-03-01T11:20:00Z",
+          "seen": true
+        }
+      ]
+    },
+    {
+      "chatId": "3",
+      "userId": "user3",
+      "name": "Alice",
+      "profileImageUrl": "https://images.pexels.com/photos/415829/pexels-photo-415829.jpeg?auto=compress&cs=tinysrgb&w=400",
+      "lastMessage": "Good to see you!",
+      "lastMessageTimestamp": "2024-03-01T13:30:00Z",
+      "messages": [
+        {
+          "messageId": "msg1",
+          "senderId": "user1",
+          "message": "Hey, how's it going?Hey, how's it going?Hey, how's it going?Hey, how's it going?Hey, how's it going?Hey, how's it going?",
+          "timestamp": "2024-03-01T11:20:00Z",
+          "seen": true
+        },
+        {
+          "messageId": "msg1",
+          "senderId": "you",
+          "message": "Goodnight, sweet dreams!",
+          "timestamp": "2024-03-01T11:20:00Z",
+          "seen": true
+        },
+        {
+          "messageId": "msg1",
+          "senderId": "user1",
+          "message": "ok!",
+          "timestamp": "2024-03-01T11:20:00Z",
+          "seen": true
+        },
+        {
+          "messageId": "msg1",
+          "senderId": "you",
+          "message": "Goodnight, sweet dreams!",
+          "timestamp": "2024-03-01T11:20:00Z",
+          "seen": true
+        },
+        {
+          "messageId": "msg1",
+          "senderId": "user1",
+          "message": "Hey, how's it going?",
+          "timestamp": "2024-03-01T11:20:00Z",
+          "seen": true
+        },
+        {
+          "messageId": "msg1",
+          "senderId": "you",
+          "message": "Hey, how's it going?",
+          "timestamp": "2024-03-01T11:20:00Z",
+          "seen": true
+        }
+      ]
+    },
+    {
+      "chatId": "4",
+      "userId": "user4",
+      "name": "Bob",
+      "profileImageUrl": "https://images.pexels.com/photos/1043471/pexels-photo-1043471.jpeg?auto=compress&cs=tinysrgb&w=400",
+      "lastMessage": "What's up?",
+      "lastMessageTimestamp": "2024-03-01T14:00:00Z",
+      "messages": [
+        {
+          "messageId": "msg1",
+          "senderId": "user1",
+          "message": "Hey, how's it going?Hey, how's it going?Hey, how's it going?Hey, how's it going?Hey, how's it going?Hey, how's it going?",
+          "timestamp": "2024-03-01T11:20:00Z",
+          "seen": true
+        },
+        {
+          "messageId": "msg1",
+          "senderId": "you",
+          "message": "Goodnight, sweet dreams!",
+          "timestamp": "2024-03-01T11:20:00Z",
+          "seen": true
+        },
+        {
+          "messageId": "msg1",
+          "senderId": "user1",
+          "message": "ok!",
+          "timestamp": "2024-03-01T11:20:00Z",
+          "seen": true
+        },
+        {
+          "messageId": "msg1",
+          "senderId": "you",
+          "message": "Goodnight, sweet dreams!",
+          "timestamp": "2024-03-01T11:20:00Z",
+          "seen": true
+        },
+        {
+          "messageId": "msg1",
+          "senderId": "user1",
+          "message": "Hey, how's it going?",
+          "timestamp": "2024-03-01T11:20:00Z",
+          "seen": true
+        },
+        {
+          "messageId": "msg1",
+          "senderId": "you",
+          "message": "Hey, how's it going?",
+          "timestamp": "2024-03-01T11:20:00Z",
+          "seen": true
+        }
+      ]
+    },
+    {
+      "chatId": "5",
+      "userId": "user5",
+      "name": "Eve",
+      "profileImageUrl": "https://images.pexels.com/photos/1674752/pexels-photo-1674752.jpeg?auto=compress&cs=tinysrgb&w=400",
+      "lastMessage": "Have a great day!",
+      "lastMessageTimestamp": "2024-03-01T15:00:00Z",
+      "messages": [
+        {
+          "messageId": "msg1",
+          "senderId": "user1",
+          "message": "Hey, how's it going?Hey, how's it going?Hey, how's it going?Hey, how's it going?Hey, how's it going?Hey, how's it going?",
+          "timestamp": "2024-03-01T11:20:00Z",
+          "seen": true
+        },
+        {
+          "messageId": "msg1",
+          "senderId": "you",
+          "message": "Goodnight, sweet dreams!",
+          "timestamp": "2024-03-01T11:20:00Z",
+          "seen": true
+        },
+        {
+          "messageId": "msg1",
+          "senderId": "user1",
+          "message": "ok!",
+          "timestamp": "2024-03-01T11:20:00Z",
+          "seen": true
+        },
+        {
+          "messageId": "msg1",
+          "senderId": "you",
+          "message": "Goodnight, sweet dreams!",
+          "timestamp": "2024-03-01T11:20:00Z",
+          "seen": true
+        },
+        {
+          "messageId": "msg1",
+          "senderId": "user1",
+          "message": "Hey, how's it going?",
+          "timestamp": "2024-03-01T11:20:00Z",
+          "seen": true
+        },
+        {
+          "messageId": "msg1",
+          "senderId": "you",
+          "message": "Hey, how's it going?",
+          "timestamp": "2024-03-01T11:20:00Z",
+          "seen": true
+        }
+      ]
+    },
+    {
+      "chatId": "6",
+      "userId": "user6",
+      "name": "Grace",
+      "profileImageUrl": "https://images.pexels.com/photos/1542085/pexels-photo-1542085.jpeg?auto=compress&cs=tinysrgb&w=400",
+      "lastMessage": "See you later!",
+      "lastMessageTimestamp": "2024-03-01T16:00:00Z",
+      "messages": [
+        {
+          "messageId": "msg1",
+          "senderId": "user1",
+          "message": "Hey, how's it going?Hey, how's it going?Hey, how's it going?Hey, how's it going?Hey, how's it going?Hey, how's it going?",
+          "timestamp": "2024-03-01T11:20:00Z",
+          "seen": true
+        },
+        {
+          "messageId": "msg1",
+          "senderId": "you",
+          "message": "Goodnight, sweet dreams!",
+          "timestamp": "2024-03-01T11:20:00Z",
+          "seen": true
+        },
+        {
+          "messageId": "msg1",
+          "senderId": "user1",
+          "message": "ok!",
+          "timestamp": "2024-03-01T11:20:00Z",
+          "seen": true
+        },
+        {
+          "messageId": "msg1",
+          "senderId": "you",
+          "message": "Goodnight, sweet dreams!",
+          "timestamp": "2024-03-01T11:20:00Z",
+          "seen": true
+        },
+        {
+          "messageId": "msg1",
+          "senderId": "user1",
+          "message": "Hey, how's it going?",
+          "timestamp": "2024-03-01T11:20:00Z",
+          "seen": true
+        },
+        {
+          "messageId": "msg1",
+          "senderId": "you",
+          "message": "Hey, how's it going?",
+          "timestamp": "2024-03-01T11:20:00Z",
+          "seen": true
+        }
+      ]
+    },
+    {
+      "chatId": "7",
+      "userId": "user7",
+      "name": "Michael",
+      "profileImageUrl": "https://images.pexels.com/photos/697509/pexels-photo-697509.jpeg?auto=compress&cs=tinysrgb&w=400",
+      "lastMessage": "Nice talking to you!",
+      "lastMessageTimestamp": "2024-03-01T17:00:00Z",
+      "messages": [
+        {
+          "messageId": "msg1",
+          "senderId": "user1",
+          "message": "Hey, how's it going?Hey, how's it going?Hey, how's it going?Hey, how's it going?Hey, how's it going?Hey, how's it going?",
+          "timestamp": "2024-03-01T11:20:00Z",
+          "seen": true
+        },
+        {
+          "messageId": "msg1",
+          "senderId": "you",
+          "message": "Goodnight, sweet dreams!",
+          "timestamp": "2024-03-01T11:20:00Z",
+          "seen": true
+        },
+        {
+          "messageId": "msg1",
+          "senderId": "user1",
+          "message": "ok!",
+          "timestamp": "2024-03-01T11:20:00Z",
+          "seen": true
+        },
+        {
+          "messageId": "msg1",
+          "senderId": "you",
+          "message": "Goodnight, sweet dreams!",
+          "timestamp": "2024-03-01T11:20:00Z",
+          "seen": true
+        },
+        {
+          "messageId": "msg1",
+          "senderId": "user1",
+          "message": "Hey, how's it going?",
+          "timestamp": "2024-03-01T11:20:00Z",
+          "seen": true
+        },
+        {
+          "messageId": "msg1",
+          "senderId": "you",
+          "message": "Hey, how's it going?",
+          "timestamp": "2024-03-01T11:20:00Z",
+          "seen": true
+        }
+      ]
+    },
+    {
+      "chatId": "8",
+      "userId": "user8",
+      "name": "Sophia",
+      "profileImageUrl": "https://images.pexels.com/photos/1559486/pexels-photo-1559486.jpeg?auto=compress&cs=tinysrgb&w=400",
+      "lastMessage": "Take care!",
+      "lastMessageTimestamp": "2024-03-01T18:00:00Z",
+      "messages": [
+        {
+          "messageId": "msg1",
+          "senderId": "user1",
+          "message": "Hey, how's it going?Hey, how's it going?Hey, how's it going?Hey, how's it going?Hey, how's it going?Hey, how's it going?",
+          "timestamp": "2024-03-01T11:20:00Z",
+          "seen": true
+        },
+        {
+          "messageId": "msg1",
+          "senderId": "you",
+          "message": "Goodnight, sweet dreams!",
+          "timestamp": "2024-03-01T11:20:00Z",
+          "seen": true
+        },
+        {
+          "messageId": "msg1",
+          "senderId": "user1",
+          "message": "ok!",
+          "timestamp": "2024-03-01T11:20:00Z",
+          "seen": true
+        },
+        {
+          "messageId": "msg1",
+          "senderId": "you",
+          "message": "Goodnight, sweet dreams!",
+          "timestamp": "2024-03-01T11:20:00Z",
+          "seen": true
+        },
+        {
+          "messageId": "msg1",
+          "senderId": "user1",
+          "message": "Hey, how's it going?",
+          "timestamp": "2024-03-01T11:20:00Z",
+          "seen": true
+        },
+        {
+          "messageId": "msg1",
+          "senderId": "you",
+          "message": "Hey, how's it going?",
+          "timestamp": "2024-03-01T11:20:00Z",
+          "seen": true
+        }
+      ]
+    },
+    {
+      "chatId": "9",
+      "userId": "user9",
+      "name": "Liam",
+      "profileImageUrl": "https://images.pexels.com/photos/1080213/pexels-photo-1080213.jpeg?auto=compress&cs=tinysrgb&w=400",
+      "lastMessage": "See you tomorrow!",
+      "lastMessageTimestamp": "2024-03-01T19:00:00Z",
+      "messages": [
+        {
+          "messageId": "msg1",
+          "senderId": "user1",
+          "message": "Hey, how's it going?Hey, how's it going?Hey, how's it going?Hey, how's it going?Hey, how's it going?Hey, how's it going?",
+          "timestamp": "2024-03-01T11:20:00Z",
+          "seen": true
+        },
+        {
+          "messageId": "msg1",
+          "senderId": "you",
+          "message": "Goodnight, sweet dreams!",
+          "timestamp": "2024-03-01T11:20:00Z",
+          "seen": true
+        },
+        {
+          "messageId": "msg1",
+          "senderId": "user1",
+          "message": "ok!",
+          "timestamp": "2024-03-01T11:20:00Z",
+          "seen": true
+        },
+        {
+          "messageId": "msg1",
+          "senderId": "you",
+          "message": "Goodnight, sweet dreams!",
+          "timestamp": "2024-03-01T11:20:00Z",
+          "seen": true
+        },
+        {
+          "messageId": "msg1",
+          "senderId": "user1",
+          "message": "Hey, how's it going?",
+          "timestamp": "2024-03-01T11:20:00Z",
+          "seen": true
+        },
+        {
+          "messageId": "msg1",
+          "senderId": "you",
+          "message": "Hey, how's it going?",
+          "timestamp": "2024-03-01T11:20:00Z",
+          "seen": true
+        }
+      ]
+    },
+    {
+      "chatId": "10",
+      "userId": "user10",
+      "name": "Olivia",
+      "profileImageUrl": "https://images.pexels.com/photos/2589653/pexels-photo-2589653.jpeg?auto=compress&cs=tinysrgb&w=400",
+      "lastMessage": "Take care!",
+      "lastMessageTimestamp": "2024-03-01T20:00:00Z",
+      "messages": [
+        {
+          "messageId": "msg1",
+          "senderId": "user1",
+          "message": "Hey, how's it going?Hey, how's it going?Hey, how's it going?Hey, how's it going?Hey, how's it going?Hey, how's it going?",
+          "timestamp": "2024-03-01T11:20:00Z",
+          "seen": true
+        },
+        {
+          "messageId": "msg1",
+          "senderId": "you",
+          "message": "Goodnight, sweet dreams!",
+          "timestamp": "2024-03-01T11:20:00Z",
+          "seen": true
+        },
+        {
+          "messageId": "msg1",
+          "senderId": "user1",
+          "message": "ok!",
+          "timestamp": "2024-03-01T11:20:00Z",
+          "seen": true
+        },
+        {
+          "messageId": "msg1",
+          "senderId": "you",
+          "message": "Goodnight, sweet dreams!",
+          "timestamp": "2024-03-01T11:20:00Z",
+          "seen": true
+        },
+        {
+          "messageId": "msg1",
+          "senderId": "user1",
+          "message": "Hey, how's it going?",
+          "timestamp": "2024-03-01T11:20:00Z",
+          "seen": true
+        },
+        {
+          "messageId": "msg1",
+          "senderId": "you",
+          "message": "Hey, how's it going?",
+          "timestamp": "2024-03-01T11:20:00Z",
+          "seen": true
+        }
+      ]
+    },
+    {
+      "chatId": "11",
+      "userId": "user11",
+      "name": "Noah",
+      "profileImageUrl": "https://images.pexels.com/photos/634021/pexels-photo-634021.jpeg?auto=compress&cs=tinysrgb&w=400",
+      "lastMessage": "See you soon!",
+      "lastMessageTimestamp": "2024-03-01T21:00:00Z",
+      "messages": [
+        {
+          "messageId": "msg1",
+          "senderId": "user1",
+          "message": "Hey, how's it going?Hey, how's it going?Hey, how's it going?Hey, how's it going?Hey, how's it going?Hey, how's it going?",
+          "timestamp": "2024-03-01T11:20:00Z",
+          "seen": true
+        },
+        {
+          "messageId": "msg1",
+          "senderId": "you",
+          "message": "Goodnight, sweet dreams!",
+          "timestamp": "2024-03-01T11:20:00Z",
+          "seen": true
+        },
+        {
+          "messageId": "msg1",
+          "senderId": "user1",
+          "message": "ok!",
+          "timestamp": "2024-03-01T11:20:00Z",
+          "seen": true
+        },
+        {
+          "messageId": "msg1",
+          "senderId": "you",
+          "message": "Goodnight, sweet dreams!",
+          "timestamp": "2024-03-01T11:20:00Z",
+          "seen": true
+        },
+        {
+          "messageId": "msg1",
+          "senderId": "user1",
+          "message": "Hey, how's it going?",
+          "timestamp": "2024-03-01T11:20:00Z",
+          "seen": true
+        },
+        {
+          "messageId": "msg1",
+          "senderId": "you",
+          "message": "Hey, how's it going?",
+          "timestamp": "2024-03-01T11:20:00Z",
+          "seen": true
+        }
+      ]
+    },
+    {
+      "chatId": "12",
+      "userId": "user12",
+      "name": "Emma",
+      "profileImageUrl": "https://images.pexels.com/photos/34534/people-peoples-homeless-male.jpg?auto=compress&cs=tinysrgb&w=400",
+      "lastMessage": "Let's meet up!",
+      "lastMessageTimestamp": "2024-03-01T22:00:00Z",
+      "messages": [
+        {
+          "messageId": "msg1",
+          "senderId": "user1",
+          "message": "Hey, how's it going?Hey, how's it going?Hey, how's it going?Hey, how's it going?Hey, how's it going?Hey, how's it going?",
+          "timestamp": "2024-03-01T11:20:00Z",
+          "seen": true
+        },
+        {
+          "messageId": "msg1",
+          "senderId": "you",
+          "message": "Goodnight, sweet dreams!",
+          "timestamp": "2024-03-01T11:20:00Z",
+          "seen": true
+        },
+        {
+          "messageId": "msg1",
+          "senderId": "user1",
+          "message": "ok!",
+          "timestamp": "2024-03-01T11:20:00Z",
+          "seen": true
+        },
+        {
+          "messageId": "msg1",
+          "senderId": "you",
+          "message": "Goodnight, sweet dreams!",
+          "timestamp": "2024-03-01T11:20:00Z",
+          "seen": true
+        },
+        {
+          "messageId": "msg1",
+          "senderId": "user1",
+          "message": "Hey, how's it going?",
+          "timestamp": "2024-03-01T11:20:00Z",
+          "seen": true
+        },
+        {
+          "messageId": "msg1",
+          "senderId": "you",
+          "message": "Hey, how's it going?",
+          "timestamp": "2024-03-01T11:20:00Z",
+          "seen": true
+        }
+      ]
+    },
+    {
+      "chatId": "13",
+      "userId": "user13",
+      "name": "William",
+      "profileImageUrl": "https://images.pexels.com/photos/1043471/pexels-photo-1043471.jpeg?auto=compress&cs=tinysrgb&w=400",
+      "lastMessage": "Good luck!",
+      "lastMessageTimestamp": "2024-03-01T23:00:00Z",
+      "messages": [
+        {
+          "messageId": "msg1",
+          "senderId": "user1",
+          "message": "Hey, how's it going?Hey, how's it going?Hey, how's it going?Hey, how's it going?Hey, how's it going?Hey, how's it going?",
+          "timestamp": "2024-03-01T11:20:00Z",
+          "seen": true
+        },
+        {
+          "messageId": "msg1",
+          "senderId": "you",
+          "message": "Goodnight, sweet dreams!",
+          "timestamp": "2024-03-01T11:20:00Z",
+          "seen": true
+        },
+        {
+          "messageId": "msg1",
+          "senderId": "user1",
+          "message": "ok!",
+          "timestamp": "2024-03-01T11:20:00Z",
+          "seen": true
+        },
+        {
+          "messageId": "msg1",
+          "senderId": "you",
+          "message": "Goodnight, sweet dreams!",
+          "timestamp": "2024-03-01T11:20:00Z",
+          "seen": true
+        },
+        {
+          "messageId": "msg1",
+          "senderId": "user1",
+          "message": "Hey, how's it going?",
+          "timestamp": "2024-03-01T11:20:00Z",
+          "seen": true
+        },
+        {
+          "messageId": "msg1",
+          "senderId": "you",
+          "message": "Hey, how's it going?",
+          "timestamp": "2024-03-01T11:20:00Z",
+          "seen": true
+        }
+      ]
+    },
+    {
+      "chatId": "14",
+      "userId": "user14",
+      "name": "James",
+      "profileImageUrl": "https://images.pexels.com/photos/1674752/pexels-photo-1674752.jpeg?auto=compress&cs=tinysrgb&w=400",
+      "lastMessage": "Catch up soon!",
+      "lastMessageTimestamp": "2024-03-02T00:00:00Z",
+      "messages": [
+        {
+          "messageId": "msg1",
+          "senderId": "user1",
+          "message": "Hey, how's it going?Hey, how's it going?Hey, how's it going?Hey, how's it going?Hey, how's it going?Hey, how's it going?",
+          "timestamp": "2024-03-01T11:20:00Z",
+          "seen": true
+        },
+        {
+          "messageId": "msg1",
+          "senderId": "you",
+          "message": "Goodnight, sweet dreams!",
+          "timestamp": "2024-03-01T11:20:00Z",
+          "seen": true
+        },
+        {
+          "messageId": "msg1",
+          "senderId": "user1",
+          "message": "ok!",
+          "timestamp": "2024-03-01T11:20:00Z",
+          "seen": true
+        },
+        {
+          "messageId": "msg1",
+          "senderId": "you",
+          "message": "Goodnight, sweet dreams!",
+          "timestamp": "2024-03-01T11:20:00Z",
+          "seen": true
+        },
+        {
+          "messageId": "msg1",
+          "senderId": "user1",
+          "message": "Hey, how's it going?",
+          "timestamp": "2024-03-01T11:20:00Z",
+          "seen": true
+        },
+        {
+          "messageId": "msg1",
+          "senderId": "you",
+          "message": "Hey, how's it going?",
+          "timestamp": "2024-03-01T11:20:00Z",
+          "seen": true
+        }
+      ]
+    },
+    {
+      "chatId": "15",
+      "userId": "user15",
+      "name": "Charlotte",
+      "profileImageUrl": "https://images.pexels.com/photos/1542085/pexels-photo-1542085.jpeg?auto=compress&cs=tinysrgb&w=400",
+      "lastMessage": "Take care!",
+      "lastMessageTimestamp": "2024-03-02T01:00:00Z",
+      "messages": [
+        {
+          "messageId": "msg1",
+          "senderId": "user1",
+          "message": "Hey, how's it going?Hey, how's it going?Hey, how's it going?Hey, how's it going?Hey, how's it going?Hey, how's it going?",
+          "timestamp": "2024-03-01T11:20:00Z",
+          "seen": true
+        },
+        {
+          "messageId": "msg1",
+          "senderId": "you",
+          "message": "Goodnight, sweet dreams!",
+          "timestamp": "2024-03-01T11:20:00Z",
+          "seen": true
+        },
+        {
+          "messageId": "msg1",
+          "senderId": "user1",
+          "message": "ok!",
+          "timestamp": "2024-03-01T11:20:00Z",
+          "seen": true
+        },
+        {
+          "messageId": "msg1",
+          "senderId": "you",
+          "message": "Goodnight, sweet dreams!",
+          "timestamp": "2024-03-01T11:20:00Z",
+          "seen": true
+        },
+        {
+          "messageId": "msg1",
+          "senderId": "user1",
+          "message": "Hey, how's it going?",
+          "timestamp": "2024-03-01T11:20:00Z",
+          "seen": true
+        },
+        {
+          "messageId": "msg1",
+          "senderId": "you",
+          "message": "Hey, how's it going?",
+          "timestamp": "2024-03-01T11:20:00Z",
+          "seen": true
+        }
+      ]
+    }
+  ]
+  
